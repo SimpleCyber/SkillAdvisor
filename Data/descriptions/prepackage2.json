@@ -1,0 +1,1654 @@
+[
+    {
+        "name": "Account Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "C",
+            "P",
+            "A",
+            "B"
+        ],
+        "description": "The Account Manager solution is an assessment used for job candidates applying to mid-level leadership positions that tend to manage the day-to-day operations and activities of client accounts. Sample tasks for these jobs include, but are not limited to: communicating with clients about project status, developing and maintaining project plans, coordinating internally with appropriate project personnel, and ensuring client expectations are being met. Potential job titles that use this solution are: Account Executive, Account Manager, and Senior Account Manager. There are multiple configurations of this solution available.",
+        "job_level": "Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Administrative Professional - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "K",
+            "P"
+        ],
+        "description": "The Administrative Professional solution is for entry to mid-level positions that involve routine clerical and administrative functions in addition to office management functions and customer service. Sample tasks for this job include, but are not limited to: arranging conference calls; drafting correspondence; scheduling meetings; greeting visitors; coordinating office activities. Potential job titles that use this solution are: Administrative Assistant, Secretary, Office Manager, Administrative Aide, and Administrative Associate.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 36",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Agency Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Agency Manager solution is for mid-level sales management positions that include front line management and sales responsibilities. Sample tasks for this job include, but are not limited to: directing and coordinating financial activities of workers in a branch, office, or department of an establishment, such as branch bank, brokerage firm, risk and insurance department, or credit department.  Potential job titles that use this solution are: Agency Manager, Brokerage Manager. Multiple configurations of this solution are available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 51",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Apprentice + 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "P"
+        ],
+        "description": "The Apprentice + 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment which includes a short cognitive ability measure. This assessment is designed for entry-level positions appropriate for countries and industries that use an apprenticeship model. It is intended to be used multi-nationally for organisations whose business spans across regions.",
+        "job_level": "General Population, Graduate, Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 30",
+        "language": "English International, German,"
+    },
+    {
+        "name": "Apprentice 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "P"
+        ],
+        "description": "The Apprentice 8.0 Job-Focused Assessment is a short, targeted, globally applicable assessment. This assessment is designed for entry-level positions appropriate for countries and industries that use an apprenticeship model. It is intended to be used multi-nationally for organizations whose business spans across regions.",
+        "job_level": "Entry-Level, General Population, Graduate,",
+        "assessment_length": "Approximate Completion Time in minutes = 20",
+        "language": "English International, German, French,"
+    },
+    {
+        "name": "Bank Administrative Assistant - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "K",
+            "P"
+        ],
+        "description": "The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for these jobs include, but are not limited to: answering telephones, managing files and records, sorting mail, greeting customers, and collaborating with co-workers on projects. Potential job titles that use this solution are: Receptionist and Administrative Assistant. There are multiple configurations of this solution available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 35",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Bank Collections Agent - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "This solution is for entry-level collections positions in an inbound or outbound call center environment in a financial setting. Candidates answer multiple choice questions to measure achievement orientation, dependability, collector numerical skills, revenue recovery, customer focus, and persistence and planfulness. There are multiple configurations and versions of this solution available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 45",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Bank Operations Supervisor - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Bank Operations Supervisor solution is for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to:  planning and preparing work schedules, assigning employees to specific duties; coaching  employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills ; training subordinates; prioritizing multiple tasks  and priorities; and making  day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, First Line Supervisor, Processing Supervisor, Call Center Supervisor, and Customer Service Supervisor. There are multiple configurations and versions of this solution available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 45",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Bilingual Spanish Reservation Agent Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "B",
+            "P",
+            "S",
+            "A"
+        ],
+        "description": "The Bilingual Reservation Agent solution is designed for customer centered entry-level positions within the hospitality industry. Sample tasks may include making, updating, or canceling hotel reservations made in English or Spanish; listening to customers speak Spanish and entering information into a computer in English; providing information on the hotel and the services offered. Potential job titles that use this solution are: Bilingual Reservation Agent, Customer Service Representative and Reservationist. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 43",
+        "language": "English (USA), Latin American Spanish,"
+    },
+    {
+        "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "P",
+            "S",
+            "K",
+            "B",
+            "A"
+        ],
+        "description": "The Bookkeeping, Accounting, and Auditing Clerk solution is for entry-level positions that involve entering numerical data into computer systems and maintaining financial records. Sample tasks for this job include, but are not limited to: entering financial data into computers; checking financial records for accuracy; perform routine computations on financial data. Potential job titles that use this solution are: Accounting Clerk, Bookkeeper, Accounting Associate, Auditing Clerk and Accounts Receivable Clerk.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Branch Manager - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "This solution is for mid to upper-level financial institution managerial positions. Candidates answer a series of multiple choice questions to measure management potential, management judgment, leadership potential, team management, branch manager problem solving, business leadership, leadership motivation, interpersonal leadership, self leadership, and branch manager judgment. There are multiple configurations and versions of this solution available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 50",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Cashier Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "B",
+            "A",
+            "P"
+        ],
+        "description": "The Cashier solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk. There are multiple configurations and versions of this solution available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 28",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Claims/Operations Supervisor Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/claimsoperations-supervisor-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "P",
+            "S",
+            "A",
+            "B"
+        ],
+        "description": "The Claims/Operations Supervisor solution is for entry-level management positions that involve supervising hourly employees.  Sample tasks for this job include, but are not limited to: planning and preapring work schedules; assigning employees to specific dutites; coaching employees on attendance, conduct, schedule adherence, and work tasks; developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; making day-to-day decisions with minimal guidance from others.  Potential job titles that use this solution are: Team Leader, Coach, First Line Supervisor, Claims Supervisor, Operations Supervisor, and Customer Service Supervisor.  Multiple configurations of this solution are available.",
+        "job_level": "Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 48",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Contact Center Customer Service + 8.0",
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "C",
+            "P",
+            "S"
+        ],
+        "description": "The Contact Center + 8.0 - Customer Service Job Focused Assessment is designed to measure the skills, competencies, and behaviors needed for success in contact center roles where the main focus is customer service. This JFA includes a mobile-optimized contact center simulation, a behavioral assessment, and a cognitive test. Together, these assessments capture the ability to provide exceptional customer service in entry-level contact center roles.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 41",
+        "language": "English (USA), English International, French, German, Latin American Spanish, Chinese Simplified, Portuguese (Brazil), Japanese,"
+    },
+    {
+        "name": "Contact Center Customer Service 8.0",
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-customer-service-8-0-4269/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "S",
+            "B",
+            "C",
+            "P"
+        ],
+        "description": "The Customer Service 8.0 JFA is designed for entry-level positions in a contact center environment where the main focus is customer service.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 31",
+        "language": "English (USA), German, Portuguese (Brazil), English International, Latin American Spanish, French (Canada), French,"
+    },
+    {
+        "name": "Contact Center Manager - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-manager-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Contact Center - Manager solution is for mid to upper-level contact center managerial positions. Sample\r\ntasks for these jobs include, but are not limited to: supervising and coordinating the activities of subordinates;\r\ninteracting day-to-day with subordinates; and training employees. Potential job titles that use this solution are:\r\nContact Center Team Leader, First Line Supervisor, and Contact Center Manager.",
+        "job_level": "Manager, Supervisor, Front Line Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 50",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Contact Center Sales & Service + 8.0",
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "P",
+            "B",
+            "C",
+            "A",
+            "S"
+        ],
+        "description": "The Contact Center + 8.0 - Sales & Service Job Focused Assessment is designed to measure the skills, competencies, and behaviors needed for success in contact center roles that involve sales-related behaviors such as recommending products or services and retaining customers. This JFA includes a mobile-optimized contact center simulation, a behavioral assessment, and a cognitive test. Together, these assessments capture the ability to provide exceptional customer service and drive sales in entry-level contact center roles.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 41",
+        "language": "English International, English (USA),"
+    },
+    {
+        "name": "Contact Center Sales & Service 8.0",
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-sales-and-service-8-0-4268/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "S",
+            "B",
+            "C",
+            "P"
+        ],
+        "description": "The Sales & Service 8.0 JFA is designed for contact center roles that involve sales or sales-related behaviors such as recommending products or services and retaining customers.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 31",
+        "language": "English International, English (USA),"
+    },
+    {
+        "name": "Contact Center Team Lead/Coach - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/contact-center-team-leadcoach-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Contact Center - Team Lead/Coach solution is for job candidates applying to entry-level leadership\r\npositions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited\r\nto: planning and preparing work schedules; assigning employees to specific duties; coaching employees on\r\nattendance, conduct, schedule adherence, and work tasks; developing employees' skills; training subordinates\r\nor less tenured peers; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal\r\nguidance from others. Potential job titles that use this solution are: Team Leader, Coach, First Line Supervisor,\r\nProcessing Supervisor, Call Center Supervisor, and Customer Service Supervisor.",
+        "job_level": "Front Line Manager, Professional Individual Contributor, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 45",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Contact Centre Agent Solution - UK",
+        "url": "https://www.shl.com/products/product-catalog/view/contact-centre-agent-solution-uk/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "This solution is used for job candidates applying to entry-level positions in a contact centre environment where the main focus of the job is customer service. The candidate answers multiple choice questions as well as questions in a customer call simulation environment. The solution measures: working with information, customer focus, contact centre retention, navigation, service orientation, and tactful problem solving. In addition, the solution measures data entry speed and accuracy, multi-tasking preferences, achievement orientation and conscientiousness.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 39",
+        "language": "English International,"
+    },
+    {
+        "name": "Customer Service - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Customer Service Representative Solution is for entry-level positions that involve a high degree of interaction with customers in person or on the phone. Sample tasks for this job include, but are not limited to: taking orders; solving product or service issues; responding positively to difficult customers; referring unresolved issues to the appropriate individuals; providing information on products and/or services. Potential job titles that use this solution are: Account Service Representative, Account Representative, Customer Service Representative, and Customer Service Agent.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 42",
+        "language": "English (USA), English International,"
+    },
+    {
+        "name": "Customer Service - Short Form - UK",
+        "url": "https://www.shl.com/products/product-catalog/view/customer-service-short-form-uk/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Customer Service Representative solution is for entry-level positions that involve\r\na high degree of interaction with customers in person or on the phone. Sample tasks\r\nfor this job include, but are not limited to: taking orders; solving product or service\r\nissues; responding positively to difficult customers; referring unresolved issues to the\r\nappropriate individuals; providing information on products and/or services. Potential\r\njob titles that use this solution are: Account Service Representative, Account\r\nRepresentative, Customer Service Representative, and Customer Service Agent.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 42",
+        "language": "English International,"
+    },
+    {
+        "name": "Customer Service with Sales - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/customer-service-with-sales-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Customer Service with Sales solution is for entry-level positions that involve both providing service and support to customers and selling goods and services. Sample tasks for this job include, but are not limited to: taking orders; solving product or service issues; selling products and services; responding positively to difficult customers; adding new goods and services to existing accounts; providing information on products and/or services. Potential job titles that use this solution are: Account Service Representative, Account Representative, Customer Service Representative, and Sales Representative.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 44",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Director - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/director-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Director solution is intended for use with senior level positions responsible for the planning, directing, or coordinating key business activities and operations of companies. Duties and responsibilities include formulating policies, managing daily operations, and planning the use of materials and human resources. Potential job titles that use this solution are: Director, Regional Director, and Director of Operations.",
+        "job_level": "Director,",
+        "assessment_length": "Approximate Completion Time in minutes = 69",
+        "language": "English (USA),"
+    },
+    {
+        "name": "District/Regional Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/districtregional-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The District/Regional Manager solution is for mid- to senior-level managerial positions that oversee multiple stores within a defined area.  Sample tasks for these jobs include, but are not limited to: directing a group of supervisors or managers, having profit and loss responsibility for a district or region, and aligning work with overall company goals.  Potential job titles that use this solution are: Regional Director, District Manager, General Manager, Regional Manager, Store Manager, and Area Manager. There are multiple configurations and versions of this solution available.",
+        "job_level": "Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 65",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Entry Level Cashier 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "P",
+            "A"
+        ],
+        "description": "The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 18",
+        "language": "French (Canada), Latin American Spanish, English (USA), English International,"
+    },
+    {
+        "name": "Entry Level Cashier 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-7-1-%28international%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Entry level Cashier 7.1 solution is for entry-level retail positions in which employees receive payment in the form of cash, check, or credit cards for goods purchased. Sample tasks for these jobs include, but are not limited to: handling payments, offering customer service, and issuing receipts and refunds. Potential job titles that use this solution are: Cashier, Sales Associate, and Clerk.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 18",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Entry Level Customer Service 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "C",
+            "P"
+        ],
+        "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 19",
+        "language": "German, Finnish, Portuguese (Brazil), English (USA), Norwegian, Dutch, Arabic, Swedish, French (Canada), Italian, Danish, English International, Chinese Simplified, Latin American Spanish, French,"
+    },
+    {
+        "name": "Entry Level Customer Service 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-%28retail-and-cc%29-7-1/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "C",
+            "P"
+        ],
+        "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organizations products or services. Sample tasks for these jobs include, but are not limited to: interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 19",
+        "language": "French, Dutch, English (USA), English International, Italian, German,"
+    },
+    {
+        "name": "Entry Level Customer Service 7.1 (South Africa)",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-7-1-%28south-africa%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "C",
+            "P"
+        ],
+        "description": "The Entry Level Customer Service Solution (Retail and Contact Center) 7.1 is for entry-level positions in which employees interact with customers by providing information or carrying out customer requests related to an organization's products or services. Sample tasks for these jobs include but are not limited to interacting with customers on the phone or in person; taking orders; solving product or service issues; and responding positively to difficult or irate customers.\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International, South Africa and Americas\".",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 19",
+        "language": "English International,"
+    },
+    {
+        "name": "Entry level Sales 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "C",
+            "P"
+        ],
+        "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 20",
+        "language": "Portuguese (Brazil),"
+    },
+    {
+        "name": "Entry level Sales 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-7-1/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "P",
+            "B",
+            "C"
+        ],
+        "description": "The Entry Level Sales 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.Report Language Availability:English (USA), English International,     Portuguese, French Canadian, German, French, Chinese Simplified, Spanish, North American Spanish.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 20",
+        "language": "English (USA), Spanish, Latin American Spanish, French, German, French (Canada), English International, Chinese Simplified, Portuguese,"
+    },
+    {
+        "name": "Entry Level Sales Sift Out 7.1",
+        "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-sift-out-7-1/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "C",
+            "P",
+            "B"
+        ],
+        "description": "The Entry Level Sales Sift Out 7.1 Solution is for entry-level positions in which employees proactively sell products or services to customers and have their compensation and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 20",
+        "language": "Swedish, Chinese Simplified, Finnish, English (USA), Portuguese (Brazil), French, Danish, Italian, Arabic, Dutch, French (Canada), Latin American Spanish, English International, Norwegian, German,"
+    },
+    {
+        "name": "Event Sales Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/event-sales-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "S",
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Event Sales Manager solution is designed for management level positions in the hospitality industry. Sample tasks include selling use of facility space for special events and managing staff. The solution is focused on sales, solving problems and making good decisions. Potential job titles that use this solution are: Event Sales Manager, Events Manager and Special Events Manager. Multiple configurations of this solution are available.",
+        "job_level": "Supervisor, Front Line Manager, Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 50",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Executive - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/executive-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Executive solution is intended for use with senior executive level positions responsible for planning, directing, or coordinating key business activities and operations at the highest level of an organization. Executives at this level often accomplish their work through subordinate executives and provide overall direction to their organization by determining and formulating policies within guidelines set up by a board of directors or similar governing body. Potential job titles that use this solution are: Executive Vice President, President, and Executive Director.",
+        "job_level": "Executive,",
+        "assessment_length": "Approximate Completion Time in minutes = 74",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Financial Professional - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/financial-professional-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "This solution is for mid-level financial institution positions that require Series 6/7 certification. Candidates answer multiple choice questions to measure financial professional aptitude, learning potential, achievement orientation, conscientiousness, persistence and planfulness, self leadership, interpersonal leadership, sales focus and customer focus.",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 35",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Professional + 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "B",
+            "C",
+            "P"
+        ],
+        "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative mobile-first ability assessment, Verify Interactive \u2013 Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+        "job_level": "General Population, Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 56",
+        "language": "Chinese Traditional, Dutch, Chinese Simplified, French, English International, Swedish, Italian, Norwegian, Danish, English (USA), French (Canada), Portuguese (Brazil), Spanish, German, Portuguese, Finnish,"
+    },
+    {
+        "name": "Guest Services Associate Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/guest-services-associate-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Guest Services Associate solution is designed for entry to mid-level customer service positions in the hospitality industry. The solution is for highly customer service focused positions with few to no sales components. Sample tasks may include: providing information on entertainment, dining and transportation to guests, making dining recommentations to guests, arranging transportation for guests, and making reservations. Potential job titles that use this solution are: Concierge, Guest Services Agent, Club Concierge, Hotel Concierge, Front Office Manager and Guest Services Associate. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 48",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Healthcare Aide 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/healthcare-aide-7-0-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B"
+        ],
+        "description": "Our Healthcare Aide 7.0 solution is designed for individually-oriented, entry-level positions that directly support another person's health and well-being. The solution covers a wide variety of positions, and assesses behaviors critical for patient support roles including: understanding and following detailed instructions; administering personal care; being respectful and tolerant of patients; preparing and maintaining records of patient progress and services performed; and working hard to meet or exceed patient needs.  \r\nPotential job titles that use this solution include: Personal Care Aide, Healthcare Aide, Home Health Aide, Dental Assistant.Report Language Availability:English (USA), Latin American Spanish.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 22",
+        "language": "English (USA), French (Canada), Latin American Spanish,"
+    },
+    {
+        "name": "Healthcare Call Center Agent Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/healthcare-call-center-agent-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Healthcare Call Center Agent solution is for entry-level positions in an inbound healthcare call center environment.  Sample tasks for this job include, but are not limited to: taking and receiving information from patients over the phone, working between computer screens, and entering information into a computer.  Potential job titles that use this solution are: Call Center Representative, Receptionist, and Switchboard Operator.  Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 44",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Healthcare Service Associate Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/healthcare-service-associate-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Healthcare Service Associate solution is for entry-level positions in a healthcare environment that require the employee to interact with patients.  Sample tasks for this job include, but are not limited to: delivering food to patients, cleaning patient rooms, and welcoming guests to the hospital.  Potential job titles that use this solution are: Housekeepers, Dietary Aides, and Guest Services Coordinator. There are multiple configurations and versions of this solution available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 37",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Healthcare Support Specialist Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/healthcare-support-specialist-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Healthcare Support Specialist solution is for entry-level positions in a healthcare environment that do not require the employee to interact with patients.  Sample tasks for this job include, but are not limited to: preparing food for patients, washing hospital linens, and cleaning the healthcare facility.  Potential job titles that use this solution are: Janitors, Food Preparation Workers, and Laundry Associates.  Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 30",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Home Health Aide Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/home-health-aide-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Home Health Aide solution is for entry-level positions in an in-home or group home environment.  Sample tasks for this job include, but are not limited to: monitoring vital signs and medication intake, administering bedside and personal care such as ambulation and personal hygiene, and preparing and maintaining records of patient progress and services performed.  Potential job titles that use this solution are: Personal Care Aide, Home Health Aide, Residential Assistant, and Certified Nursing Assistant. There are multiple configurations and versions of this solution available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 41",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Hospitality Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/hospitality-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "K",
+            "P"
+        ],
+        "description": "The Hospitality Manager solution is designed for management level positions in the hospitality industry. Sample tasks include overall property management, managing staff and managing the guest experience. The solution is focused on managing business operations, managing staff, solving problems, making good decisions and maintaining focus on the customer. Potential job titles that use this solution are: Property Manager, Property Director, Hotel Manager and Hospitality Manager. Multiple configurations of this solution are available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 57",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Host Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/host-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "B",
+            "P"
+        ],
+        "description": "The Host solution is designed for entry level positions in the hospitality industry. Sample tasks include greeting guests, managing wait lists and showing guests to their tables. The solution is focused on work ethic and customer focus. Potential job titles that use this solution are: Host, Hostess and Greeter. There are multiple configurations and versions of this solution available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 30",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Industrial - Entry Level 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-0-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B"
+        ],
+        "description": "Our Industrial \u2013 Entry Level 7.0 solution is designed for entry-level positions, and measures the behaviors and experiences that underlie successful and safe performance in general or light industrial roles. The solution covers a wide variety of entry-level positions, and assesses behaviors including: following policies and procedures; general facility upkeep; producing high quality work; maintaining an orderly work environment; wearing required protective equipment; and being thorough.\r\nPotential job titles that use this solution include: Laborer, Custodians, Building and Grounds Maintenance Workers, Handyman.Report Language Availability:English (USA), Latin American Spanish.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 20",
+        "language": "French (Canada), English (USA), English International, Latin American Spanish,"
+    },
+    {
+        "name": "Industrial - Entry Level 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B"
+        ],
+        "description": "Our Industrial \u2013 Entry Level 7.1 solution is designed for entry-level positions, and measures the behaviors and experiences that underlie successful and safe performance in general or light industrial roles. The solution covers a wide variety of entry-level positions, and assesses behaviors including: following policies and procedures; general facility upkeep; producing high quality work; maintaining an orderly work environment; wearing required protective equipment; and being thorough.\r\nPotential job titles that use this solution include: Laborer, Custodians, Building and Grounds Maintenance Workers, Handyman.\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 20",
+        "language": "English (USA), French (Canada), Portuguese (Brazil), Latin American Spanish,"
+    },
+    {
+        "name": "Industrial - Entry Level 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/industrial-entry-level-7-1-%28international%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B"
+        ],
+        "description": "Our Industrial \u2013 Entry Level 7.1 solution is designed for entry-level positions, and measures the behaviors and experiences that underlie successful and safe performance in general or light industrial roles. The solution covers a wide variety of entry-level positions, and assesses behaviors including: following policies and procedures; general facility upkeep; producing high quality work; maintaining an orderly work environment; wearing required protective equipment; and being thorough.\r\nPotential job titles that use this solution include: Laborer, Custodians, Building and Grounds Maintenance Workers, Handyman.\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 20",
+        "language": "Dutch, Norwegian, German, English International, Portuguese (Brazil), English (USA), French (Canada),"
+    },
+    {
+        "name": "Industrial - Professional and Skilled 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-0-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B"
+        ],
+        "description": "Our Industrial \u2013 Professional and Skilled 7.0 solution is designed to measure the behaviors and experiences that underlie successful and safe performance in the workplace for specialized technical or professional industrial roles. \r\nThis solution assesses mechanical comprehension and other foundational behaviors including: behaving safely and efficiently in the workplace; installing, repairing, and/or maintaining equipment and machinery; making sound mechanical decisions; maintaining an orderly work environment; and producing high quality and reliable work.Report Language Availability:English (USA), Latin American Spanish.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "Latin American Spanish, English (USA), English International, French (Canada),"
+    },
+    {
+        "name": "Industrial - Semi-skilled 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B"
+        ],
+        "description": "Our Industrial \u2013 Semi-skilled 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance for production workers. The solution assesses behaviors and competencies foundational to industrial roles including: following policies and procedures; applying relevant trade skills; wearing required protective equipment; working with or monitoring equipment; producing high quality work; effectively working with others; and maintaining an orderly work environment. \r\nPotential job titles that use this solution include: Production and Assembly Worker, Construction Worker, Extraction Technician.Please note this package is in Americas norm.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 24",
+        "language": "English (USA), Portuguese (Brazil), French (Canada),"
+    },
+    {
+        "name": "Industrial - Semi-skilled 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/industrial-semi-skilled-7-1-%28international%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B"
+        ],
+        "description": "Our Industrial \u2013 Semi-skilled 7.1 solution is designed for entry-level positions and measures the behaviors and experiences that underlie successful and safe performance for production workers. The solution assesses behaviors and competencies foundational to industrial roles including: following policies and procedures; applying relevant trade skills; wearing required protective equipment; working with or monitoring equipment; producing high quality work; effectively working with others; and maintaining an orderly work environment. \r\nPotential job titles that use this solution include: Production and Assembly Worker, Construction Worker, Extraction Technician.Please note this package is in International norm.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 24",
+        "language": "French (Canada), Finnish, English International, French, Danish, Norwegian, Swedish,"
+    },
+    {
+        "name": "Industrial Professional and Skilled 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B"
+        ],
+        "description": "Our Industrial \u2013 Professional and Skilled 7.1 solution is designed to measure the behaviors and experiences that underlie successful and safe performance in the workplace for specialized technical or professional industrial roles. \r\nThis solution assesses mechanical comprehension and other foundational behaviors including: behaving safely and efficiently in the workplace; installing, repairing, and/or maintaining equipment and machinery; making sound mechanical decisions; maintaining an orderly work environment; and producing high quality and reliable work.\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "Portuguese (Brazil), English (USA), French (Canada),"
+    },
+    {
+        "name": "Industrial Professional and Skilled 7.1 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/industrial-professional-and-skilled-7-1-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B"
+        ],
+        "description": "Our Industrial \u2013 Professional and Skilled 7.1 solution is designed to measure the behaviors and experiences that underlie successful and safe performance in the workplace for specialized technical or professional industrial roles. \r\nThis solution assesses mechanical comprehension and other foundational behaviors including: behaving safely and efficiently in the workplace; installing, repairing, and/or maintaining equipment and machinery; making sound mechanical decisions; maintaining an orderly work environment; and producing high quality and reliable work.\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "Portuguese (Brazil), Swedish, English International, Dutch, Italian, French, English (USA), French (Canada), Norwegian, German,"
+    },
+    {
+        "name": "Installation and Repair Technician Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/installation-and-repair-technician-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Installation and Repair Technician solution is designed for use with entry-level field technician positions in the telecommunications industry. The solution is focused on positions that involve installing, repairing, and maintaining telecommunications equipment, along with some customer interaction, and little to no specific sales components. Sample tasks may include: installing or repairing end-user telecommunications equipment and services, interacting with customers, and installing, or repairing telecommunications network infrastructure. Potential job titles that use this solution are: Installer, Service Technician, and Customer Installation Technician. There are multiple configurations of this solution available.",
+        "job_level": "Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Insurance Account Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/insurance-account-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Insurance Account Manager solution is for mid-level insurance professionals that manage the day-to-day operations and activities of customer accounts.  Sample tasks for this job include, but are not limited to: soliciting sales of new or additional products or services; interacting with customers to provide information in response to inquiries about products and services and to handle and resolve complaints; keeping records of customer interactions and transactions; resolving customers' service or billing complaints; determining charges for services requested; collecting deposits or payments; and arranging for billing.  Potential job titles that use this solution are: Account Executive, Account Manager, and Senior Account Manager.  Multiple configurations of this solution are available.",
+        "job_level": "Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 48",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Insurance Administrative Assistant Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/insurance-administrative-assistant-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Administrative Assistant solution is for entry-level clerical positions that interact with external or internal customers. Sample tasks for this job include, but are not limited to: answering telephones; managing files and records; sorting mail; handling information requests; greeting customers; and collaborating with co-workers on projects. Potential job titles that use this solution are: Receptionist and Administrative Assistant. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 24",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Insurance Agent Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/insurance-agent-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Insurance Agent solution is for mid-level professional positions in the insurance industry that sell property, casualty, automotive, or other types of insurance. Sample tasks for this position include, but are not limited to: calling on policyholders to deliver and explain policies or suggest additions or changes; calculating premiums; customizing insurance programs to suit individual customers; ensuring policy requirements are fulfilled; and conferring with clients to obtain and provide information when claims are made on a policy. Potential job titles that use this solution are: Insurance Sales Professional; Insurance Sales Agent; Producer; Insurance Agent. Multiple configurations of this solution are available.",
+        "job_level": "Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 46",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Insurance Director Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/insurance-director-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Insurance Director solution is for senior-level management positions in the insurance companies that oversee sales functions across multiple brokerages, offices, or agencies or geographic territories. Sample tasks for this job includes, but is not limited to: directing a group of sales managers or agency managers; having profit and loss responsibility for a district or region; and aligning work with overall company goals. Potential job titles that use this solution are: Regional Managers, Associate Directors, and Managing Directors. Multiple configurations of this solution are available.",
+        "job_level": "Director, Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Insurance Sales Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/insurance-sales-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Sales Manager solution is for entry- to mid-level management positions that involve supervising employees working in an insurance organization and have a substantial portion of their job performance based on sales. Sample tasks for this job include, but are not limited to: planning and preparing work schedules; promoting products to customers; training subordinates; analyzing sales statistics gathered by staff to determine sales potential and monitor preferences of customers; building ongoing customer relationships; and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Insurance Sales Manager, Sales Manager, Assistant Sales Manager, and Sales Supervisor. Multiple configurations of this solution are available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 51",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Manager - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/manager-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "K",
+            "P",
+            "S"
+        ],
+        "description": "The Manager solution is an assessment used for job candidates applying to entry-level leadership positions who tend to supervise salaried employees. Sample tasks for these jobs include, but are not limited to: planning projects with subordinates; collaborating with senior managers on developing new methods and procedures; coaching employees on performance-related issues; developing employees' skills; coordinating activities with other managers to accomplish organizational goals; setting and meeting department goals; prioritizing multiple tasks and priorities; making selected strategic and day-to-day decisions; and solving employees' and customers' problems. Potential job titles that use this solution are: Manager, Store Manager, and Branch Manager.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 57",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Manager + 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/manager-7-0-solution-3955/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "C"
+        ],
+        "description": "Our Manager + 7.0 solution is designed for candidates applying to entry-level leadership positions who tend to supervise salaried employees, and includes SHL\u2019s new innovative mobile-first ability assessment, Verify Interactive \u2013 Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: planning projects with subordinates; collaborating with senior managers on developing new methods and procedures; coaching employees on performance-related issues; developing employees ' skills; coordinating activities with other managers to accomplish organizational goals; setting and meeting department goals; prioritizing multiple tasks and priorities; making selected strategic and day-to-day decisions; and solving employees' and customers' problems.Report Language Availability:English (USA).",
+        "job_level": "Front Line Manager, Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 53",
+        "language": "English (USA), English International,"
+    },
+    {
+        "name": "Nursing Assistant Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/nursing-assistant-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Nursing Assistant solution is for entry-level positions in a clinic or hospital environment. Sample tasks for this job include, but are not limited to: turning and re-positioning bedridden patients, feeding patients who cannot feed themselves, and observing patients' conditions, including measuring and recording food intake.  Potential job titles that use this solution are: Certified Nursing Assistant, Nursing Aide, Patient Care Technician, and Hospital Attendant.  Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 41",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Personal Banker - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/personal-banker-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "K",
+            "P",
+            "S"
+        ],
+        "description": "The Personal Banker \u2013 Loan Officer solution is for entry to mid-level financial institution positions. Sample tasks for this job would include, but are not limited to: acquiring, retaining and expanding new and existing customer relationships, discovering customer needs, making the best recommendation, completing sales, proactively contacting & meeting customers, and asking for referrals.",
+        "job_level": "Entry-Level, Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 30",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Phone Banker - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/phone-banker-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "This solution is for entry to mid-level financial institution positions. Candidates are asked to answer multiple choice questions to assess learning potential, dependability, persistence and planfulness, sales focus, customer focus, and working with information.",
+        "job_level": "Entry-Level, Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 40",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Prep/Line Cook Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/prepline-cook-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Prep/Line Cook solution is for entry-level food preparation positions in the hospitality industry. Sample tasks include preparing ingredients and final food items for consumption. The solution is focused on work ethic and performing quality work with no direct customer contact or sales requirements. Potential job titles that use this solution are: Cook, Line Cook, Food Preparer, Prep Cook and Chef. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 24",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Professional + 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution-3958/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "C"
+        ],
+        "description": "Our Professional + 7.0 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative mobile-first ability assessment, Verify Interactive \u2013 Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.Report Language Availability:English (USA).",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 51",
+        "language": "English International, English (USA),"
+    },
+    {
+        "name": "Professional + 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "B",
+            "C",
+            "P"
+        ],
+        "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative mobile-first ability assessment, Verify Interactive \u2013 Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+        "job_level": "General Population, Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 56",
+        "language": "Latin American Spanish,"
+    },
+    {
+        "name": "Professional + 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "B",
+            "C",
+            "P"
+        ],
+        "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative mobile-first ability assessment, Verify Interactive \u2013 Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+        "job_level": "General Population, Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 56",
+        "language": "Chinese Traditional, Dutch, Chinese Simplified, French, English International, Swedish, Italian, Norwegian, Danish, English (USA), French (Canada), Portuguese (Brazil), Spanish, German, Portuguese, Finnish,"
+    },
+    {
+        "name": "Professional 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/professional-7-0-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "C"
+        ],
+        "description": "Our Professional 7.0 solution is designed for all non-managerial professional individual contributor positions. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.Report Language Availability:English (USA), Latin American Spanish.",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 33",
+        "language": "English (USA), English International, French (Canada), Latin American Spanish,"
+    },
+    {
+        "name": "Professional 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution-4247/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "C",
+            "B"
+        ],
+        "description": "Our Professional 7.1 solution is designed for all non-managerial professional individual contributor positions. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+        "job_level": "Professional Individual Contributor, Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 33",
+        "language": "English International, Swedish, Italian, Finnish, Dutch, French, English (USA), German, Portuguese (Brazil), Latin American Spanish, French (Canada), Danish, Norwegian,"
+    },
+    {
+        "name": "Professional 8.0 JFA",
+        "url": "https://www.shl.com/products/product-catalog/view/professional-8-0-jfa/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "K",
+            "P"
+        ],
+        "description": "The Professional 8.0 Job-Focused Assessment is designed for all non-managerial professional/individual contributor positions. It measures behaviors that underlie successful performance in a professional/individual contributor setting across a wide range of industries.",
+        "job_level": "Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 16",
+        "language": "English International, English (USA),"
+    },
+    {
+        "name": "Professional/Individual Contributor - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/professionalindividual-contributor-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Professional/Individual Contributor solution is for mid to upper-level, non-managerial positions. Sample tasks for these jobs include, but are not limited to: meeting with clients to determine their needs, analyzing data sets, and working with co-workers to complete projects. Potential job titles that use this solution are: Engineer, Human Resource Consultant, and IT Analyst.",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 44",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Project Manager - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/project-manager-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Project Manager solution is designed for positions that lead medium to large scale projects with multiple team members involved. Sample tasks for this job include, but are not limited to: guiding, supervising, and influencing project team members, scoping project resource requirements, and managing project timelines, scope and budgets. Potential job titles that ues this solution are: Project Manager, Implementation Manager, Construction Project Manager and IT Project Manager.",
+        "job_level": "Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Proof Operator - Processing Specialist -Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/proof-operator-processing-specialist-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "S"
+        ],
+        "description": "The Proof Operator \u2013 Processing Specialist solution is for entry-level positions that perform basic daily bank operations procedures such as the processing of deposits, reconciling accounts, and handling money transfers.  Potential job titles include:  Proof Operator, Bank Operations Processor, and Operations Specialist.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 30",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Reservation Agent Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/reservation-agent-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "P",
+            "S",
+            "B"
+        ],
+        "description": "The Reservation Agent solution is designed for entry-level positions within the hospitality industry. Sample tasks may indlude making, updating, or canceling reservations; looking up information and entering information into a computer; providing information on the hotel and the services offered. Potential titles that use this solution are: Reservation Agent, Customer Service Representative and Reservationist. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 43",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Restaurant Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/restaurant-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P",
+            "S"
+        ],
+        "description": "The Restaurant Manager solution is designed for management level positions in the hospitality industry. Sample tasks include purchasing food and supplies, accounting, setting policies and procedures, and managing staff. The solution is focused on managing staff, solving problems, making good decisions and maintaining focus on the customer. Potential job titles that use this solution are: Restaurant Manager and General Manager. Multiple configurations of this solution are available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 48",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Restaurant Supervisor Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/restaurant-supervisor-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Restaurant Supervisor solution is designed for management level positions in the hospitality industry. Sample tasks include serving as a staff resource, setting schedules and monitoring daily operations. The solution is focused on solving problems, making good decisions and maintaining focus on the customer. Potential job titles that use this solution are: Restaurant Supervisor and Restaurant Staff Supervisor. Multiple configurations of this solution are available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 53",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Retail Consultant Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/retail-consultant-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Retail Consultant solution is for entry to mid-level retail positions in which employees proactively sell products to customers, develop relationships with repeat customers, and have their pay and/or performance heavily based on sales revenue.  Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and building ongoing customer relationships.  Potential job titles that use this solution are: Sales Consultant, Sales Representative, and Retail Sales Associate. There are multiple configurations and versions of this solution available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 45",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Retail Manager w/ Sales Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/retail-manager-w-sales-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Retail Manager with Sales solution is an assessment used for job candidates applying to entry-level leadership positions who tend to supervise hourly employees but also have a significant portion of their job performance based on sales and customer service. Sample tasks for these jobs include, but are not limited to:  planning and preparing work schedules, assigning employees to specific duties; promoting products to customers; training subordinates; building ongoing customer relationships; and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Assistant Manager, Sales Supervisor, Retail Manager, and Floor Leader. There are multiple configurations and versions of this solution available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 43",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Retail Sales Associate Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/retail-sales-associate-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Retail Sales Associate solution is for entry-level retail positions in which employees proactively sell products to customers and have their pay and/or performance based on sales revenue.  Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.  Potential job titles that use this solution are: Sales Representative, Retail Sales Associate, and Sales Clerk. There are multiple configurations and versions of this solution available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 29",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Sales Director Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-director-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Sales Director solution is for mid- to senior-level sales management positions that oversee the sales function across multiple offices or geographic territories.  Sample tasks for these jobs include, but are not limited to: directing a group of sales supervisors or sales managers, having profit and loss responsibility for a district or region, and aligning work with overall company goals.  Potential job titles that use this solution are: Regional Sales Director, District Sales Manager, and Sales Director.  Multiple configurations of this solution are available.",
+        "job_level": "Director, Front Line Manager, Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 59",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Sales Engineer Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-engineer-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "K",
+            "P",
+            "S"
+        ],
+        "description": "The Sales Engineer solution is designed for use with professional level telecommunications engineers with distinct sales responsibilities. The solution is focused on positions that involve the design of telecommunications networks for specific customer applications, and places an emphasis on reasoning ability and sales ability. Sample tasks may include: designing network solutions to meet customer needs, communicating technical information to all levels of clients participating in the sales process, assisting or owning the sales process, and ensuring proper implementation of contracted equipment and services. Potential job titles that use this solution are: Sales Engineer, Senior Technical Consultant, and Technical Sales Lead. There are multiple configurations of this solution available.",
+        "job_level": "Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 61",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Sales Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Sales Manager solution is an assessment used for applying to entry to mid-level sales leadership positions that generally manage employees and have a significant portion of their job performance based on sales. Sample tasks for these jobs include, but are not limited to: planning and preparing sales plans, promoting products to customers, training subordinates, building ongoing customer\r\nrelationships, and making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Sales Manager and Manager of Direct Sales.",
+        "job_level": "Front Line Manager, Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 63",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Sales Professional 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-0-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "C",
+            "B"
+        ],
+        "description": "Our Sales Professional 7.0 solution is designed for entry to mid-level sales positions in which employees proactively sell products to customers, develop relationships with repeat customers, and have their pay and/or performance heavily based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and building ongoing customer relationships.Report Language Availability:English (USA).",
+        "job_level": "Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 21",
+        "language": "English International, English (USA), French (Canada), Latin American Spanish,"
+    },
+    {
+        "name": "Sales Professional 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-professional-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "C"
+        ],
+        "description": "Our Sales Professional 7.1 solution is designed for entry to mid-level sales positions in which employees proactively sell products to customers, develop relationships with repeat customers, and have their pay and/or performance heavily based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and building ongoing customer relationships.",
+        "job_level": "Professional Individual Contributor, Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 21",
+        "language": "English (USA), Portuguese (Brazil), Latin American Spanish, French (Canada),"
+    },
+    {
+        "name": "Sales Professional Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-professional-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Sales Professional solution is for entry to mid-level sales positions in which employees proactively sell products to customers, develop relationships with repeat customers, and have their pay and/or performance heavily based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and building ongoing customer relationships.\r\nPotential job titles that use this solution are: Sales Consultant, Sales Representative, and Account Representative. Multiple configurations of this solution are available.",
+        "job_level": "Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 47",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Sales Representative Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-representative-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Sales Representative solution is for entry-level sales positions in which employees proactively sell products to customers and have their pay and/or performance based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, persuading customers to buy products, and completing a transaction with a customer. Potential job titles that use this solution are: Sales\r\nRepresentative, Sales Associate, and Sales Clerk. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 29",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Sales Supervisor Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-supervisor-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Sales Supervisor solution is an assessment used for job candidates applying to entry-level sales leadership positions that generally supervise employees and have a significant portion of their job performance based on sales. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, promoting products to customers; training subordinates; building ongoing customer relationships;\r\nand making day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Assistant Sales Manager and Sales Supervisor. Multiple configurations of this solution are available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 38",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Sales Support Specialist Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/sales-support-specialist-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Sales Support Specialist solution is for entry to mid-level sales support positions in which employees work primarily under the guidance of an account manager or operations manager in support of client accounts. Sample tasks for these jobs include, but are not limited to: implementing customer orders, assisting with and coordinating activities, and utilizing processes to meet customer requirements. Potential job titles that use\r\nthis solution are: Implementation Specialist, Project Assistant, and Sales Support Assistant. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 43",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Senior Insurance Agent Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/senior-insurance-agent-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Senior Insurance Agent solution is for senior-level professional positions in the insurance industry that sell a portfolio of insurance products, including property, casualty, automotive, health, and life. Sample tasks for this position include, but are not limited to: calling on policyholders to deliver and explain policies or suggest additions or changes; calculating premiums; customizing insurance programs to suit individual customers; ensuring policy requirements are fulfilled; and conferring with clients to obtain and provide information when claims are made on a policy. Potential job titles that use this solution are: Insurance Senior Sales Professional, Senior Producer, Insurance Sales Agent, and Insurance Agent. Multiple configurations of this solution are available.",
+        "job_level": "Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 44",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Senior Sales Professional Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/senior-sales-professional-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Senior Sales Professional solution is for high-level sales positions in which employees proactively sell products to customers, develop relationships with new or existing customers, and have their pay and/or performance heavily based on sales revenue. Sample tasks for these jobs include, but are not limited to: promoting products to customers, consulting with and persuading customers to buy products, and building\r\nongoing customer relationships. Potential job titles that use this solution are: Senior Sales Representative, Business Development Manager, and Senior Sales Consultant. Multiple configurations of this solution are available.",
+        "job_level": "Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 42",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Server Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/server-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "B",
+            "A",
+            "P"
+        ],
+        "description": "The Server solution is designed for entry-level positions in the hospitality industry. Sample tasks include greeting customers, taking customer food and drink orders and delivering food items to guests. The solution is focused on work ethic, customer focus and sales. Potential job titles that use this solution are: Server and Waiter/Waitress. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 40",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Service Associate Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/service-associate-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Service Associate is designed for entry-level positions that are primarily task focused but may include a customer service component. The solution covers a wide variety of support positions in the hospitality industry and sample tasks may include: cleaning hotel rooms, serving food at buffet lines, parking cars, and/or delivering food to hotel rooms. Potential job titles that use this solution are: Housekeeper, Buffet Server, Room Service Attendant, and Valet. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 38",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Service Supervisor Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/service-supervisor-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Service Supervisor solution is designed for entry-level leadership positions in the hospitality industry that oversee hourly and salaried employees in customer facing positions (e.g. Front Desk Associate, Concierge, Guest Service Associate). Individuals in these roles perform many of hte duties of the employees they supervise. Sample tasks may include: assisting challenging guests, coaching employees on their customer service skills, taking corrective action when an employee is performing poorly, and monitoring employees to assess the satisfactory completion of tasks. Potential job titles that use this solution are: Front Desk Manager, Guest Services Supervisor, and Front Desk Supervisor. Multiple configurations of this solution are available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 48",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Stock Clerk Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/stock-clerk-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Stock Clerk solution is for entry-level retail positions in which employees work primarily in the stockroom handling incoming and outgoing shipment and keeping the sales floor fully stocked.  Sample tasks for these jobs include, but are not limited to: unload product shipment, maintain stockroom organization, replenish supplies and products on the sales floor, and process outgoing shipments.  Potential job titles that use this solution are: Stock Clerk, Inventory Associate, and Warehouse Associate. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 25",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Store Manager 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-0-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "C"
+        ],
+        "description": "Our Store Manager 7.0 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees in a retail or restaurant setting. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others.Report Language Availability:English (USA), Latin American Spanish.",
+        "job_level": "Front Line Manager, Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 34",
+        "language": "English (USA), English International, French (Canada), Latin American Spanish,"
+    },
+    {
+        "name": "Store Manager 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "C"
+        ],
+        "description": "Our Store Manager 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees in a retail or restaurant setting. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others.",
+        "job_level": "Front Line Manager, Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 34",
+        "language": "English (USA), Latin American Spanish, Portuguese (Brazil), French (Canada),"
+    },
+    {
+        "name": "Store Manager 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/store-manager-7-1-%28international%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "C",
+            "B"
+        ],
+        "description": "Our Store Manager 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees in a retail or restaurant setting. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others.",
+        "job_level": "Front Line Manager, Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 34",
+        "language": "Latin American Spanish, English International,"
+    },
+    {
+        "name": "Store Manager Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/store-manager-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Store Manager solution is an assessment used for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to:  planning and preparing work schedules, assigning employees to specific duties; coaching  employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills ; training subordinates; prioritizing multiple tasks  and priorities; and making  day-to-day decisions with minimal guidance from others. Potential job titles that use this solution are: Store Manager, First Line Supervisor, Retail Manager, Restaurant Manager, and Customer Service Supervisor. Multiple configuration options of this solution are available.",
+        "job_level": "Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 49",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Supervisor - Short Form",
+        "url": "https://www.shl.com/products/product-catalog/view/supervisor-short-form/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "S"
+        ],
+        "description": "The Supervisor solution is an assessment used for job candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to:\u00a0\u00a0planning and preparing work schedules, assigning employees to specific duties; coaching\u00a0\u00a0employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills\u00a0; training subordinates; prioritizing multiple tasks\u00a0 and priorities; and making\u00a0\u00a0day-to-day\u00a0decisions with minimal guidance from others. Potential job titles that use this solution are: Team Leader, First Line Supervisor, Call Center Supervisor, and Customer Service Supervisor.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 57",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Supervisor 7.0 Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-0-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "C"
+        ],
+        "description": "Our Supervisor 7.0 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others.Report Language Availability:English (USA), Latin American Spanish.",
+        "job_level": "Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 32",
+        "language": "English International, English (USA), French (Canada), Latin American Spanish,"
+    },
+    {
+        "name": "Supervisor 7.1 (Americas)",
+        "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28americas%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "B",
+            "C",
+            "P"
+        ],
+        "description": "Our Supervisor 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others.Report Language Availability:English (USA), Canadian French, Brazilian Portuguese.\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+        "job_level": "Front Line Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 29",
+        "language": "Portuguese (Brazil), French (Canada), English (USA),"
+    },
+    {
+        "name": "Supervisor 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/supervisor-7-1-%28international%29/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "P",
+            "C",
+            "B"
+        ],
+        "description": "Our Supervisor 7.1 solution is designed for candidates applying to entry-level leadership positions who tend to supervise hourly employees. Sample tasks for these jobs include, but are not limited to: planning and preparing work schedules, assigning employees to specific duties; coaching employees on attendance, conduct, schedule adherence, and work tasks, developing employees' skills; training subordinates; prioritizing multiple tasks and priorities; and making day-to-day decisions with minimal guidance from others.Report Language Availability:English International, German, Portuguese, Spanish, Norwegian, Swedish, Dutch, French, English (USA)\u201cIMPORTANT! Please note that you will need to select the correct package depending on which norm you intend to use. The package available for this product is International and Americas\".",
+        "job_level": "Supervisor, Front Line Manager,",
+        "assessment_length": "Approximate Completion Time in minutes = 29",
+        "language": "Italian, Norwegian, Spanish, English (USA), French, German, Dutch, Swedish, Portuguese, English International,"
+    },
+    {
+        "name": "Support Associate Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/support-associate-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Support Associate solution is designed for entry-level positions that involve little to no interaction with customers. The solution covers a wide variety of support positions in the hospitality industry, and sample tasks may include: food preparation, dishwashing, and/or cleaning. Potential job titles that use this solutin are: Janitor, Food Prep, Laundry Associate and Dishwasher. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 38",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Support Supervisor Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/support-supervisor-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "P",
+            "S",
+            "B"
+        ],
+        "description": "The Support Supervisor solution is designed for entry-level leadership positions in the hospitality industry that oversee hourly employees in non-customer facing support positions (e.g. Janitors, Laundry Workers, Grounds Crew). Individuals in these roles may perform many of the duties of the employees they supervise. Sample tasks may include: assigning work tasks, taking corrective action when an employee is performing poorly, and monitoring employees to assess the satisfactory completion of tasks. Potential job titles that use this solution are: Head Custodian, Maintenance Supervisor, Buildings and Grounds Supervisor, Facilities Manager, Housekeeping Supervisor, Building and Grounds Director and Housekeepig Director. Multiple configurations of this solution are available.",
+        "job_level": "Front Line Manager, Manager, Supervisor,",
+        "assessment_length": "Approximate Completion Time in minutes = 39",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Technical Sales Associate Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/technical-sales-associate-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Technical Sales Associate solution is for entry-level retail positions in which employees proactively sell a specific line of products that requires substantial knowledge about the products and have their pay and/or performance based on sales revenue.  Sample tasks for these jobs include, but are not limited to: obtaining detailed product information, promoting products to customers, persuading customers to buy products, and completing a transaction with a customer.  Potential job titles that use this solution are: Sales Representative, Retail Sales Associate, and Sales Clerk. Multiple configurations of this solution are available.",
+        "job_level": "Entry-Level,",
+        "assessment_length": "Approximate Completion Time in minutes = 41",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Technician/Technologist Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/techniciantechnologist-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Technician/Technologist solution is for positions in a healthcare environment that perform medical tests to aide in the treatment of patients.  Sample tasks for this job include, but are not limited to: collecting samples of bodily fluids, completing x-rays on patients, conducting analysis using medical machines, and entering results of medical tests into a computer.  Potential job titles that use this solutionare: Radiologic Technician, Medical Technologist/Technician, and Laboratory Technologist.  Multiple configurations of this solution are available.",
+        "job_level": "Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 52",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Technology Professional 8.0 Job Focused Assessment",
+        "url": "https://www.shl.com/products/product-catalog/view/technology-professional-8-0-job-focused-assessment/",
+        "remote_testing": "yes",
+        "adaptive_irt": "no",
+        "test_types": [
+            "C",
+            "P"
+        ],
+        "description": "The Technology Job Focused Assessment assesseskey behavioral attributesrequired for success in fast-paced, rapidly evolvingtechnology environments, providing an indication of the candidate\u2019s longer termpotential. \r\n\r\nIt is available as part of SHL\u2019s Technology Hiring Solution.",
+        "job_level": "Entry-Level, Graduate, Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 16",
+        "language": "German, Spanish, Latin American Spanish, French, Italian, Indonesian, Chinese Simplified, French (Canada), English International, English (USA),"
+    },
+    {
+        "name": "Telenurse Solution",
+        "url": "https://www.shl.com/products/product-catalog/view/telenurse-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "A",
+            "B",
+            "P"
+        ],
+        "description": "The Telenurse solution is for positions in a healthcare environment that interact with patients over the telephone.  Sample tasks for this job include, but are not limited to: accurately understanding patient's symptoms via the telephone, systematically working through patient symptoms to arrive at the correct diagnosis, and recalling facts from the call for documentation.  Potential job titles that use this solution are: Telenurse, Telephone Nurse, or On Call Nurse.  Multiple configurations of this solution are available.",
+        "job_level": "Mid-Professional,",
+        "assessment_length": "Approximate Completion Time in minutes = 68",
+        "language": "English (USA),"
+    },
+    {
+        "name": "Professional + 7.1 (International)",
+        "url": "https://www.shl.com/products/product-catalog/view/professional-7-1-solution/",
+        "remote_testing": "yes",
+        "adaptive_irt": "yes",
+        "test_types": [
+            "B",
+            "C",
+            "P"
+        ],
+        "description": "Our Professional + 7.1 solution is designed for all non-managerial professional individual contributor positions, and includes SHL\u2019s new innovative mobile-first ability assessment, Verify Interactive \u2013 Deductive Reasoning. Sample tasks for these jobs include, but are not limited to: gathering requirements, analyzing data, managing projects, producing products or services.",
+        "job_level": "General Population, Mid-Professional, Professional Individual Contributor,",
+        "assessment_length": "Approximate Completion Time in minutes = 56",
+        "language": "Chinese Traditional, Dutch, Chinese Simplified, French, English International, Swedish, Italian, Norwegian, Danish, English (USA), French (Canada), Portuguese (Brazil), Spanish, German, Portuguese, Finnish,"
+    }
+]
